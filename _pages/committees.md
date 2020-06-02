@@ -7,15 +7,12 @@ redirect_from:
   - /organizers/
 ---
 
+
 ## Programme Commitee
 
 * David Benavides - Universidad de Sevilla, Spain
 * María Cecilia Bastarrica - Universidad de Chile, Chile
-* Elena Epure - Research Scientist, Deezer - France
-* Thomas Fodgal- Danfoss Power Electronics A/S, Denmark
 * José Galindo - Universidad de Sevilla, Spain 
-* Rick Rabiser - Johannes Kepler University, Austria 
-* Jabier Martinez - Tecnalia, Spain
 * Carlos Arce Lopera - Universidad ICESI, Colombia
 * José Barros - Universidad de Vigo, Spain
 * César A. Collazos - Universidad del Cauca, Colombia
@@ -29,6 +26,12 @@ redirect_from:
 * Pedro Rossel - Universidad Católica de la Santísima Concepción, Chile 
 * Francisco Álvarez Rodríguez - Universidad Autónoma de Aguascalientes, Mexico 
 
+<!--
+* Elena Epure - Research Scientist, Deezer - France
+* Thomas Fodgal- Danfoss Power Electronics A/S, Denmark
+* Rick Rabiser - Johannes Kepler University, Austria 
+* Jabier Martinez - Tecnalia, Spain
+-->
 
 ## Organizers
 * Jaime Chavarriaga, Universidad de Los Andes, Colombia

@@ -10,9 +10,8 @@ redirect_from:
 
 ## Dates to take in account
 
-|                      |                         |
-| -------------------- | ----------------------- |
-| Paper Submission     | ~~May 28, 2019~~ Jun 4, 2019 (AOE time) |
-| Paper Notification   | Jun 18, 2019            |
-| Final version        | Jul  2, 2019            |
-| Workshop             | Sept 9-14, 2019 (TBD)   |
+|                      |                               |
+| -------------------- | ----------------------------- |
+| Paper Submission     | August 17, 2020 (AOE time)    |
+| Paper Notification   | September 14, 2020 (AOE time) |
+| Final version        | September 21, 2020 (AOE time) |

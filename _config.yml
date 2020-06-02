@@ -9,16 +9,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WEESR 2019"
+title                    : "WEESR 2020"
 title_separator          : "-"
 name                     : &name "Workshop on Experiences and Empirical Studies on Software Reuse"
-description              : &description "Website of the Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2019)"
+description              : &description "Website of the Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2020)"
 url                      : https://weesr.github.io/
 baseurl                  : 
 repository               : "weesr/weesr.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "WEESR <span style='color:#0092ca;'>2020</span>"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -97,21 +97,18 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "assets/weesr/weesr-2019.png"
-  bio              : "Have you reused some software component or library?"
+  avatar           : "assets/weesr/weesr-logo.png"
+  bio              : "Do you reuse software or other development artifacts?"
   links:
-    - label: "at SPLC 2019"
+    - label: "at SPLC 2020"
       icon: "fas fa-fw fa-map-marker-alt"
-      url: "https://splc2019.net/"
-    - label: "Paris, France"
+      url: "https://splc2020.net/"
+    - label: "Montréal, Canada"
       icon: "fas fa-fw fa-map-marker-alt"
-      url: "https://splc2019.net/"
+      url: "https://splc2020.net/"
     - label: "Easychair"
       icon: "fas fa-fw fa-file-import"
-      url: "https://easychair.org/conferences/?conf=weesr2019"
-    - label: "weesr2019@..."
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:weesr2019@easychair.org
+      url: "https://easychair.org/conferences/?conf=splc2020"
     - label: "@splcconf"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/splcconf"
