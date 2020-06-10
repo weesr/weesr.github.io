@@ -22,13 +22,13 @@ redirect_from:
 
 ---
 
-> The **WEESR** aims to be an space where researchers and practitioners can present their experiences and studies on the area of software reuse, discuss the challenges that must be overcame in non-academic environments and obtain feedback on how the corresponding empirical research may be conducted and improved.
-
-
 {% capture link-to-old-websites %}
 You may find the website of the other editions of the workshop at [WEESR 2018](https://sites.google.com/view/weesr2018/index), [WEESR 2019](https://weesr.github.io/2019/).
 {% endcapture %}
 <div class="notice--success">{{ link-to-old-websites | markdownify }}</div>
+
+> The **WEESR** aims to be an space where researchers and practitioners can present their experiences and studies on the area of software reuse, discuss the challenges that must be overcame in non-academic environments and obtain feedback on how the corresponding empirical research may be conducted and improved.
+
 
 ![This year, WEESR will be at Montréal (and online)](assets/weesr/weesr-background.jpg "This year, WEESR will be at Paris")
 
