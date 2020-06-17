@@ -20,11 +20,11 @@ redirect_from:
 * Helga Duarte - Universidad Nacional de Colombia, Colombia
 * María Constanza Pabón - Pontificia Universidad Javeriana, Colombia
 * Daniel Perovich - Universidad de Chile, Chile 
+* Pedro Rossel - Universidad Católica de la Santísima Concepción, Chile 
 
 {%capture old_pc %}
 <!--
 * Elena Epure - Research Scientist, Deezer - France
-* Pedro Rossel - Universidad Católica de la Santísima Concepción, Chile 
 * Francisco Álvarez Rodríguez - Universidad Autónoma de Aguascalientes, Mexico 
 * Patricia Paderewski - Universidad de Granada, Spain 
 * Juan Manuel Murillo Rodríguez - University of Extremadura, Spain
