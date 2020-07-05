@@ -12,7 +12,7 @@ redirect_from:
 
 * David Benavides - Universidad de Sevilla, Spain
 * Rick Rabiser - Johannes Kepler University, Austria 
-* Thomas Fodgal- Danfoss Power Electronics A/S, Denmark
+* Thomas Fogdal- Danfoss Power Electronics A/S, Denmark
 * Carlos Parra - Pontificia Universidad Javeriana, Colombia
 * José Galindo - Universidad de Sevilla, Spain 
 * Jabier Martinez - Tecnalia, Spain
