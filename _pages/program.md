@@ -34,12 +34,16 @@ redirect_from:
 	<td>Keynote presentation</td>
 </tr>
 <tr>
-	<td markdown="span">09:25 - 10:00</td>
+	<td markdown="span">09:25 - 9:50</td>
 	<td><ul>
 		<li markdown="span">Luisa Fernanda Rincón Pérez, Raul Mazo and Camille Salinesi. **A multi-company empirical evaluation of a framework that evaluates the convenience of adopting product line engineering**</li>
-		<li markdown="span">Wesley K. G. Assunção. **Status of the Handbook of Re-engineering Software Intensive Systems into Software Product Lines**</li>
 	</ul></td>
 	<td markdown="span">20 minutes presentation + 5 minutes questions.</td>
+</tr>
+<tr>
+	<td markdown="span">9:50 - 10:00</td>
+	<td markdown="span">Wesley K. G. Assunção. **Status of the Handbook of Re-engineering Software Intensive Systems into Software Product Lines**</td>
+	<td>Invited briefing</td>
 </tr>
 <tr>
 	<td markdown="span">10:00 - 10:30</td>
