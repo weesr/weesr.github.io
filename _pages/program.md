@@ -9,6 +9,11 @@ redirect_from:
 
 ---
 
+{% capture whova %}
+The SPLC and colocated workshops will be available on the [Whova Mobile App](https://whova.com/portal/splc_202010/).
+{% endcapture %}
+<div class="notice--success">{{ whova | markdownify }}</div>
+
 <table>
 <colgroup>
 	<col width="10%" />
