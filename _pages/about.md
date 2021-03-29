@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Third Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2020)"
+title: "Fourth Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2021)"
 author_profile: true
 classes: wide
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-*colocated with Software Product Line Conference ([SPLC 2020](https://splc2020.net/))*
+*colocated with Software Product Line Conference ([SPLC 2021](https://splc2021.net/))*
 
 ---
 {% capture about %}

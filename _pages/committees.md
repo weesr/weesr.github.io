@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Programme Commitee
+## Programme Commitee (tentative list)
 
 * David Benavides - Universidad de Sevilla, Spain
 * Rick Rabiser - Johannes Kepler University, Austria 

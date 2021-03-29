@@ -10,7 +10,7 @@ redirect_from:
 
 {% capture submissions %}
 #### Submissions
-Please send your papers using [the official SPLC EasyChair instance](https://easychair.org/conferences/?conf=splc2020). You must select the WEESR workshop before submitting your paper. 
+Please send your papers using [the official SPLC EasyChair instance](https://easychair.org/conferences/?conf=splc2021). You must select the WEESR workshop before submitting your paper. 
 {% endcapture %}
 <div class="notice--success">{{ submissions | markdownify }}</div>
 {% capture publication %}

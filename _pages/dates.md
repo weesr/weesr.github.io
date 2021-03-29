@@ -10,8 +10,8 @@ redirect_from:
 
 ## Dates to take in account
 
-|                      |                               |
-| -------------------- | ----------------------------- |
-| Paper Submission     | August 17, 2020 (AOE time)    |
-| Paper Notification   | September 14, 2020 (AOE time) |
-| Final version        | September 21, 2020 (AOE time) |
+|                      |                          |
+| -------------------- | ------------------------ |
+| Paper Submission     | June 11, 2021 (AOE time) |
+| Paper Notification   | June 25, 2021 (AOE time) |
+| Final version        | July  9, 2021 (AOE time) |

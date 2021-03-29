@@ -7,7 +7,7 @@ classes: wide
 ---
 
 {% capture link-to-old-websites %}
-You may find the website of the other editions of the workshop at [WEESR 2018](https://sites.google.com/view/weesr2018/index), [WEESR 2019](https://weesr.github.io/2019/).
+You may find the website of the other editions of the workshop at [WEESR 2018](https://sites.google.com/view/weesr2018/index), [WEESR 2019](https://weesr.github.io/2019/) and [WEESR 2020](https://weesr.github.io/2020/).
 {% endcapture %}
 <div class="notice--success">{{ link-to-old-websites | markdownify }}</div>
 
