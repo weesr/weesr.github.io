@@ -8,8 +8,13 @@ redirect_from:
 ---
 
 
-## Programme Commitee (tentative list)
+## Programme Commitee
 
+We are in the process of confirming the members of the Programme Committee. 
+The information will be published here in the following days.
+
+{%capture old_pc %}
+<!--
 * David Benavides - Universidad de Sevilla, Spain
 * Rick Rabiser - Johannes Kepler University, Austria 
 * Thomas Fogdal- Danfoss Power Electronics A/S, Denmark
@@ -29,8 +34,7 @@ redirect_from:
 * Leticia Montalvillo -  IKERLAN, Spain
 * Helga Duarte - Universidad Nacional de Colombia, Colombia
 
-{%capture old_pc %}
-<!--
+
 * Elena Epure - Research Scientist, Deezer - France
 * Francisco Álvarez Rodríguez - Universidad Autónoma de Aguascalientes, Mexico 
 * Patricia Paderewski - Universidad de Granada, Spain 
