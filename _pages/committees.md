@@ -13,6 +13,7 @@ redirect_from:
 We are in the process of confirming the members of the Programme Committee. 
 The information will be published here in the following days.
 
+* David Benavides - Universidad de Sevilla, Spain
 * Rick Rabiser - Johannes Kepler University, Austria 
 * Thomas Fogdal- Danfoss Power Electronics A/S, Denmark
 * José Galindo - Universidad de Sevilla, Spain 
@@ -22,6 +23,7 @@ The information will be published here in the following days.
 * Pedro Rossel - Universidad Católica de la Santísima Concepción, Chile 
 * Carlos Parra - Pontificia Universidad Javeriana, Colombia
 * Héctor Florez - Universidad Distrital Francisco José de Caldas, Colombia
+* Helga Duarte - Universidad Nacional de Colombia, Colombia
 * María Cecilia Bastarrica - Universidad de Chile, Chile
 
 {%capture old_pc %}
