@@ -269,6 +269,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jemoji
+  nokogiri (>= 1.11.4)
   tzinfo-data
 
 BUNDLED WITH
