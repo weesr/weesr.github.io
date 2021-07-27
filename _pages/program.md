@@ -12,7 +12,7 @@ redirect_from:
 
 |                   | Joint program for REVE and WEESR workshops         |
 | ------------------|----------------------------------------------------|
-| 12:00am  | Opening and welcome notes *by workshop organizers* |
+| 12:00m  | Opening and welcome notes *by workshop organizers* |
 | 12:15pm  | **Keynote:** ***Risks and Opportunities of the Research Loop in Variability Engineering***<br/> Univ.-Prof. Dr. Paul Grünbacher |
 | 01:00pm  | **Extending the Identification of Object-Oriented Variability Implementations using Usage Relationships.**<br/> Johann Mortara, Xhevahire Tërnava, Philippe Collet and Anne-Marie Déry.  |
 | 01:20pm  | **Product-Line Analysis Cookbook: A Classification System for Complex Analysis Toolchains.**<br/> Vasil Tenev, David Morais Ferreira and Martin Becker.  |
