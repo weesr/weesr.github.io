@@ -4,12 +4,10 @@ title: "Fourth Workshop on Experiences and Empirical Studies on Software Reuse (
 header:
   overlay_image: /assets/weesr/weesr-background.jpg
   overlay_filter: 0.3
-  caption: "Photo: [Pixabay.com](https://pixabay.com/es/photos/montreal-turismo-biosfera-museo-1886398/)"
+  caption: "Photo: [Story of Leicester](https://www.storyofleicester.info/civic-affairs/the-clock-tower/)"
   actions:
-   - label: "<i class='fas fa-file-import'></i> Submit paper"
-     url: "https://easychair.org/conferences/?conf=splc2021"
    - label: "<i class='fas fa-edit'></i> Registration"
-     url: "http://splc2021.net/"
+     url: "https://splc2021.net/registration"
 author_profile: true
 classes: wide
 redirect_from: 
@@ -18,7 +16,8 @@ redirect_from:
 ---
  
 **Fourth Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2021)**
-*colocated with Software Product Line Conference ([SPLC 2021](https://splc2021.net/))*
+September 7, 2021 -- *colocated with Software Product Line Conference ([SPLC 2021](https://splc2021.net/))*
+
 
 ---
 
