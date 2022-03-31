@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Fourth Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2021)"
+title: "Fifth Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2022)"
 author_profile: true
 classes: wide
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-*colocated with Software Product Line Conference ([SPLC 2021](https://splc2021.net/))*
+*colocated with Software Product Line Conference ([SPLC 2022](https://2022.splc.net/))*
 
 ---
 {% capture about %}
@@ -32,23 +32,6 @@ The **Workshop on Experiences and Empirical Studies on Software Reuse** aims to 
 * Experiences and reports that evidence problems and failures implementing techniques for reuse and SPLE
 {% endcapture %}
 <div class="notice">{{ topics | markdownify }}</div>
-
-{% capture format %}
-### Workshop format
-This workshop will have an hybrid format where we mix lightning talks, paper presentations, and working sessions, aiming to foster collaboration among researchers and practitioners. Thus the workshop will have three moments as follows:
-
-* *Keynote talk*. 
-A keynote talk from an expert on empirical software engineering regarding research on engineering practices and software reuse. This talk is intended to discuss common concerns of researchers in the area and to provide some general guidelines.
-
-* *Papers presentation*.
-The presentation of the accepted papers will continue after the keynote talk. Each one is discussed by a member of the program committee, who will give comments on the presented research and will lead a brief session of questions and answers.
-
-* *Working session*.
-In this sesion participants will discuss and how to continue and improve the research presented during the workshop how to collaborate each to the others.
-{% endcapture %}
-<!--
-<div class="notice">{{ format | markdownify }}</div>
--->
 
 
 

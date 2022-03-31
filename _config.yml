@@ -9,16 +9,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WEESR 2021"
+title                    : "WEESR 2022"
 title_separator          : "-"
 name                     : &name "Workshop on Experiences and Empirical Studies on Software Reuse"
-description              : &description "Website of the Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2021)"
+description              : &description "Website of the Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2022)"
 url                      : https://weesr.github.io/
 baseurl                  : 
 repository               : "weesr/weesr.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "WEESR <span style='color:#0092ca;'>2021</span>"
+masthead_title           : "WEESR <span style='color:#0092ca;'>2022</span>"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -97,18 +97,18 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "assets/weesr/weesr-logo.png"
+  avatar           : "assets/weesr/weesr-2022.png"
   bio              : "Do you reuse software or other development artifacts?"
   links:
-    - label: "at SPLC 2021"
+    - label: "at SPLC 2022"
       icon: "fas fa-fw fa-map-marker-alt"
-      url: "https://splc2021.net/"
-    - label: "Leicester, UK"
+      url: "https://2022.splc.net/"
+    - label: "Graz, Austria"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "#"
     - label: "Easychair"
       icon: "fas fa-fw fa-file-import"
-      url: "https://easychair.org/conferences/?conf=splc2021"
+      url: "https://easychair.org/conferences/?conf=splc2022"
     - label: "@splcconf"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/splcconf"
