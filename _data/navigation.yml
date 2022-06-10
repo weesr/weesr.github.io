@@ -14,8 +14,8 @@ main:
 # check schedule.md for hints to create this page    
 #  - title: "Program"
 #    url: /program/    
-#  - title: "Committees"
-#    url: /committees/    
+  - title: "Committees"
+    url: /committees/    
     
 # to enable this pages
 #  - modify _pages/* 
