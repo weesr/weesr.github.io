@@ -13,16 +13,17 @@ redirect_from:
 
 
 
-|            | **Joint program for REVE and WEESR workshops**<br/>*September 7, 2021* |
+|            | **Joint program for REVE and WEESR workshops**<br/>*September 12, 2022* |
 | -----------|----------------------------------------------------|
-| 12:00m     | Opening and welcome notes *by workshop organizers* |
-| 12:15pm    | **Keynote:** ***Risks and Opportunities of the Research Loop in Variability Engineering***<br/> Univ.-Prof. Dr. Paul Grünbacher |
-| 01:00pm    | **Extending the Identification of Object-Oriented Variability Implementations using Usage Relationships.**<br/> Johann Mortara, Xhevahire Tërnava, Philippe Collet and Anne-Marie Déry.  |
-| 01:20pm    | **Product-Line Analysis Cookbook: A Classification System for Complex Analysis Toolchains.**<br/> Vasil Tenev, David Morais Ferreira and Martin Becker.  |
-| 01:40am    | 15 minutes Break |
-| 01:55pm    | **A Reusable Set of Real-World Product Line Case Studies for Comparing Variability Models in Research and Practice.**<br/> Kristof Meixner, Kevin Feichtinger, Rick Rabiser and Stefan Biff. |
-| 02:15pm    | **Journal-First talk:**  ***Understanding product line maturity in an organization***<br/> Robert Lindohf, Saab AB, Stockholm, Sweden Software product-line evaluation in the large  |
-| 02:35pm    | **Workshop Discussion:**<br/> all attendees, moderated by workshop organizers |
-| 02:55pm    | Closing notes *by workshop organizers* |
+| 09:00am    | Opening and welcome notes *by workshop organizers* |
+| 09:15am    | **Keynote:** ***Social Coding Platforms Facilitate Variant Forks.***<br/> Serge Demeyer |
+| 10:00am    | Coffe Break |
+| 10:30am    | **Synchronizing software variants: A two-dimensional approach.**<br/> Christoph König, Kamil Rosiak, Lukas Linsbauer and Ina Schaefer.  |
+| 10:50am    | **Trust Challenges In Reusing Open Source Software: An Interview-based Initial Study.**<br/> Javad Ghofrani, Paria Heravi, Kambiz Aghababazadeh Babaei and Mohammad Divband Soorati.  |
+| 11:10am    | **Design for the analysis of variability management in the industry.**<br/> Ana Eva Chacón-Luna, Antonio Manuel Gutierrez, David Benavides and Lidia Fuentes.  |
+| 11:30am    | **A Prototype of a Crowd-sourcing Platform for Classification and Integration of Analysis Tools in Product Line Engineering.**<br/> Mohammadali Soleymani, David Morais Ferreira, Vasil Tenev and Martin Becker. |
+| 11:50am    | **Reflection on** ***10 years of the Reverse Variability Engineering workshop:***<br/> Contributions, discussions, case study catalogue, and a book.  |
+| 12:00pm    | **Workshop Discussion:**<br/> all attendees, moderated by workshop organizers |
+| 12:25pm    | Closing notes *by workshop organizers* |
 
 

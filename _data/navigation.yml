@@ -12,8 +12,8 @@ main:
     url: /dates/    
     
 # check schedule.md for hints to create this page    
-#  - title: "Program"
-#    url: /program/    
+  - title: "Program"
+    url: /program/    
   - title: "Committees"
     url: /committees/    
     
